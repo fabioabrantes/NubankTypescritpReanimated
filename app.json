@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "nubank-typescript-reanimated",
+    "slug": "nubank-typescript-reanimated",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
